@@ -1,4 +1,4 @@
-Claro! Vou te ajudar a escrever um README detalhado para um projeto que usa um display LCD com interface I2C no Arduino. Esse documento servirá para orientar os usuários sobre o propósito do projeto, como configurá-lo, usá-lo e contribuir para ele. Vou incluir seções comuns e úteis em um README.
+.
 
 ---
 
